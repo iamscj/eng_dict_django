@@ -1,1 +1,1 @@
-web gunicorn eenglishdictionary.wsgi:application --log-file -
+web gunicorn englishdictionary.wsgi:application --log-file -
